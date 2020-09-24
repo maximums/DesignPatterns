@@ -1,2 +1,4 @@
 /Builder/out/
 /Builder/.idea/
+/Testing/*/
+/.idea/*/
